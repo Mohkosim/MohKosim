@@ -9,6 +9,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 💬 Ask me about website design
 - ⚡ Fun fact: beginner
 - 📫 How to reach me : mohkosim8014@gmail.com
+- 📂 Link Portofolio: [https://mohkosim.github.io/portofolio/](https://mohkosim.github.io/portofolio/)
 
 ## Tech Stack
 [![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
