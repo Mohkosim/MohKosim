@@ -1,5 +1,6 @@
-## Hi! 👋 I'm Kosim.
+<!-- ## Hi! 👋 I'm Kosim. -->
 
+![Moh.Kosim](img/github-header-banner.png)
 
 A website designer with a deep interest in creating engaging and functional interfaces. I have a passion for UI/UX and always strive to deliver an optimal user experience in every project I work on.
 I actively develop various projects, including using Laravel and Tailwind CSS, to build responsive and aesthetic interfaces.
@@ -12,19 +13,44 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 📂 Link Portofolio: [https://mohkosim.github.io/portofolio/](https://mohkosim.github.io/portofolio/)
 
 ## Tech Stack
-[![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Flowbite](https://img.shields.io/badge/Flowbite-%230064ff.svg?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com/)
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flowbite-%230064ff.svg?style=for-the-badge&logo=flowbite&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7"/>
+
+<br>
+
+## Design Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
   <br>
-  
+
+## Development Machine
+
+<img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA-RTX 3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+  <br>
+
 ## 🛠️ Skills & Technologies
 
 ### Front-End
+
 ✅ **Figma** → UI/UX design tool <br>  
 ✅ **HTML** → Basic structure of web pages <br>  
 ✅ **CSS** → Styling for web pages <br>  
@@ -34,6 +60,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 ✅ **Flowbite** → UI components based on Tailwind CSS <br>
 
 ## Github Statistic
+
 <p align="left">
 <a href="https://github.com/MohKosim">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohKosim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -58,13 +85,6 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 ###
 
 ## Follow me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-kosim-2064892b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moh.kosim643_/)
-
-
-
-
-
-
-
-
