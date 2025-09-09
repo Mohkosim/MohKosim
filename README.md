@@ -1,6 +1,6 @@
 <!-- ## Hi! 👋 I'm Kosim. -->
 
-![Moh.Kosim](img/github-header-banner.png)
+![Moh.Kosim](img/github-header-banner1.png)
 
 A website designer with a deep interest in creating engaging and functional interfaces. I have a passion for UI/UX and always strive to deliver an optimal user experience in every project I work on.
 I actively develop various projects, including using Laravel and Tailwind CSS, to build responsive and aesthetic interfaces.
