@@ -14,7 +14,6 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 
 ## Tech Stack
 
-<p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -27,29 +26,24 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7"/>
-</p>
 
 <br>
 
 ## Design Tools
 
-<p align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
 
   <br>
 
 ## Development Machine
 
-<p align="left">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA-RTX 3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
 
   <br>
 
